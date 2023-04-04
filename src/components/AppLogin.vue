@@ -82,7 +82,7 @@
           >Ratna Prema.</a> Available on
           <a
             class="text-blue hover:underline"
-            href="http://github.com/rprema/bulk-delete-github"
+            href="https://github.com/rosano/bulk-delete-github/tree/patch-2"
             rel="noopener noreferrer"
             target="_blank"
           >Github</a>.
